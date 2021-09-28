@@ -1,22 +1,19 @@
-This project covers basic python applications using varible libraries. It dives deep into Machine Learning with practical exercises that are based on real-life examples. 
+This project covers basic python applications using varible libraries. Here is just a few of the topics covered in this project:
 
-Part 1 - Data Preprocessing
-
-Part 2 - Regression: Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, SVR, Decision Tree Regression, Random Forest Regression
-
-Part 3 - Classification: Logistic Regression, K-NN, SVM, Kernel SVM, Naive Bayes, Decision Tree Classification, Random Forest Classification
-
-Part 4 - Clustering: K-Means, Hierarchical Clustering
-
-Part 5 - Association Rule Learning: Apriori, Eclat
-
-Part 6 - Reinforcement Learning: Upper Confidence Bound, Thompson Sampling
-
-Part 7 - Natural Language Processing: Bag-of-words model and algorithms for NLP
-
-Part 8 - Deep Learning: Artificial Neural Networks, Convolutional Neural Networks
-
-Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCA
-
-Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
-
+Programming with Python
+NumPy with Python
+Using pandas Data Frames to solve complex tasks
+Use pandas to handle Excel Files
+Web scraping with python
+Connect Python to SQL
+Use matplotlib and seaborn for data visualizations
+Use plotly for interactive visualizations
+Machine Learning with SciKit Learn, including:
+Linear Regression
+K Nearest Neighbors
+K Means Clustering
+Decision Trees
+Random Forests
+Natural Language Processing
+Neural Nets and Deep Learning
+Support Vector Machines
