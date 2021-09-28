@@ -1,4 +1,4 @@
-This project covers basic python applications using varible libraries. It dives deep into Machine Learning. 
+This project covers basic python applications using varible libraries. It dives deep into Machine Learning with practical exercises that are based on real-life examples. 
 
 Part 1 - Data Preprocessing
 
@@ -20,4 +20,3 @@ Part 9 - Dimensionality Reduction: PCA, LDA, Kernel PCA
 
 Part 10 - Model Selection & Boosting: k-fold Cross Validation, Parameter Tuning, Grid Search, XGBoost
 
-Moreover, the project is packed with practical exercises that are based on real-life examples. So not only will you learn the theory, but you will also get some hands-on practice building your own models.
